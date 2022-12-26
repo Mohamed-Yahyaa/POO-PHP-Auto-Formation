@@ -2,7 +2,9 @@
     "name": "solicode/mvc-php",
     "autoload": {
         "psr-4": {
-            "Solicode\\MvcPhp\\": "src/"
+            "App\\": "app/"
+
+            
         }
         
     },
