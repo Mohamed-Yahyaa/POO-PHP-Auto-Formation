@@ -1,0 +1,15 @@
+{
+    "name": "solicode/mvc-php",
+    "autoload": {
+        "psr-4": {
+            "Solicode\\MvcPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed yahya",
+            "email": "92155140+Mohamed-Yahyaa@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
