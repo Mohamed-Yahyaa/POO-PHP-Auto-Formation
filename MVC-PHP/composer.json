@@ -4,6 +4,7 @@
         "psr-4": {
             "Solicode\\MvcPhp\\": "src/"
         }
+        
     },
     "authors": [
         {
