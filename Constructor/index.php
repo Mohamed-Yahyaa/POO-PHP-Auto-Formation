@@ -4,10 +4,9 @@
 include "class.php" ;
 
 
-$Mercedes= new Cars();
+$Mercedes= new Car("Ford","Mustang");
 
- $Mercedes->set_Name('Mercedes');
- $Mercedes->set_Model('AMG 500');
+
 
 
  echo "Name:"  .$Mercedes->get_Name();
